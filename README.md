@@ -71,14 +71,14 @@ El trabajo práctico se dividirá en 4 secciones, que representan etapas del des
 **Temas a desarrollar:**
 - Creación de un **boss final** con mecánicas únicas o ataques especiales.
 - Implementación de la batalla contra el boss final.
-- Exportación del juego en formato adecuado (PC, WebGL, etc.).
+- Exportación del juego en formato adecuado (WebGL).
 - Publicación del juego en Itch.io, con captura de pantalla, descripción y enlace del juego.
 
 **Entrega:**
 - Juego con un **boss final** que ofrezca un desafío adicional.
 - Juego exportado y publicado en Itch.io.
 - Página del juego organizada con imágenes y descripción.
-- Juego funcional en la plataforma seleccionada (PC, WebGL, etc.).
+- Juego funcional en la plataforma seleccionada (WebGL).
 
 ---
 
