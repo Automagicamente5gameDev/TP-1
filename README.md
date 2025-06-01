@@ -105,7 +105,7 @@ El trabajo será evaluado en función de la correcta implementación y calidad d
 - Diseño y jugabilidad de los niveles, incluyendo la presencia de un boss final.
 - Funcionalidad de la cámara, el menú y la correcta publicación en itch.io.
   
-Cada sección representa un **25%** de la nota final (0 a 10) del trabajo práctico. Sin importar que tanto se completo este trabajo practico es importante que este publicado para evaluarlo.
+Cada sección representa un **25%** del trabajo práctico, minimo **50%** para aprobar. Sin importar que tanto se completo este trabajo practico es importante que este publicado para evaluarlo.
 
 ---
 
