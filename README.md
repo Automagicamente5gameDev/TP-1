@@ -1,7 +1,7 @@
 ## Trabajo Práctico: Desarrollo de Juego 2D en Unity
 
-**Fecha de entrega inicial:** *[9/6/2025]*  
-**Fecha de entrega final:** *[23/6/2025]*
+**Fecha de entrega inicial:** *[31/10/2025]*  
+**Fecha de entrega final:** *[7/11/2025]*
 
 ---
 
